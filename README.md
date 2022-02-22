@@ -29,9 +29,9 @@
 <br><br><br>
 <h3>ABOUT</h3>
 <hr>
-<h4 align="center">Development by Markley Sales during the ProgramadorBR course</h4>
+<h4 align="center">Development by Markley Sales</h4>
 <div align="center">
-  <img width="40px" src="https://user-images.githubusercontent.com/95272518/152735319-a3cbe101-e906-4b3f-8cf7-5a07e3b02206.svg">
+  <img width="34px" src="https://user-images.githubusercontent.com/95272518/152735319-a3cbe101-e906-4b3f-8cf7-5a07e3b02206.svg">
 </div>
 
 </body>
