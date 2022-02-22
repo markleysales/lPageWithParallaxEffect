@@ -1,4 +1,4 @@
-# PARALLAX EFFECT WITH WEB APPLICATION!
+# Parallax Effect in Web Application!
 <body>
 
 <h4 align="right">Parallax is the difference in the apparent position of an object relative to a background.</h4>
